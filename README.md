@@ -25,7 +25,7 @@ pip install opscan
 
 > Or clone and install in editable mode:
 > ```bash
-> git clone https://github.com/mr-bala-kavi/opscan.git
+> git clone https://github.com/mr-bala-kavi/pypacake-opscan.git
 > cd opscan
 > pip install -e .
 > ```

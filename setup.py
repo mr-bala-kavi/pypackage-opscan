@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="opscan",
-    version="1.0.0",
+    version="1.1.0",
     description="A fast and simple Python-based open port scanner.",
     author="Mr.Balakavi",
     author_email="balakavi64@gmail.com",
-    url="https://github.com/mr-bala-kavi/opscan",  # Optional, update if needed
+    url="https://github.com/mr-bala-kavi/pypackage-opscan",
     packages=find_packages(),
     entry_points={
         "console_scripts": [

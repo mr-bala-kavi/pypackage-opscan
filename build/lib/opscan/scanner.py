@@ -1,5 +1,3 @@
-# opscan/scanner.py
-
 import socket
 from concurrent.futures import ThreadPoolExecutor
 

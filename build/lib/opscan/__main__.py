@@ -1,5 +1,3 @@
-# opscan/__main__.py
-
 import sys
 from opscan.scanner import scan_all_ports
 
